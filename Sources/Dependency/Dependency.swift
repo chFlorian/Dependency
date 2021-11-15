@@ -1,0 +1,6 @@
+public struct Dependency {
+    public private(set) var text = "Hello, World!"
+
+    public init() {
+    }
+}
