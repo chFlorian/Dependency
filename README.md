@@ -1,6 +1,7 @@
 # Dependency
 
-A dependency Injection solution for SwiftUI. Based on a video by Antoine Van Der Lee and Vincent Pradeilles.
+A dependency Injection solution for SwiftUI. 
+Thank you [Antoine van der Lee](https://www.avanderlee.com/swift/dependency-injection/) and [Vincent Pradeilles](https://youtu.be/TLmBeqA53bo) for initially showcasing this idea.
 
 ## Usage
 
